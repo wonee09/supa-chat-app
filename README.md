@@ -92,14 +92,6 @@ npm run dev
    - 프로젝트 설정에서 Realtime 기능 활성화
    - 메시지 테이블에 대한 Realtime 설정 확인
 
-## 배포
-
-이 애플리케이션은 Vercel과 같은 서비스를 통해 쉽게 배포할 수 있습니다:
-
-```bash
-npm run build
-```
-
 ## 라이센스
 
 이 프로젝트는 MIT 라이센스를 따릅니다.
